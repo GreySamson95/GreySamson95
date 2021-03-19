@@ -5,7 +5,9 @@
 - 🏫 Освоить новые фреймворки
 - 🧠 Стать професcионалом своего дела
 - 👽 Работать с опытными коллегами
-
+### Контакты
+- telegram: @ocean95
+- email: Ramiro1dm@mail.ru
 ### 🔨 Мой стек:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="22">
@@ -32,4 +34,4 @@
 </a>
 </div>
 
-telegram: @ocean95
+
