@@ -31,3 +31,5 @@
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreySamson95&layout=compact" />
 </a>
 </div>
+
+telegram: @ocean95
